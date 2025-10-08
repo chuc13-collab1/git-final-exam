@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản mã nguồn hiệu quả.
 - Dễ dàng làm việc nhóm và phối hợp với nhiều người.
 - Có thể khôi phục lại các thay đổi khi gặp lỗi.
+- Hỗ trợ làm việc với nhiều branch song song.
+- Lưu lại lịch sử phát triển của dự án một cách rõ ràng.
