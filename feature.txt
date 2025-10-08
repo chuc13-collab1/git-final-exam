@@ -1,0 +1,7 @@
+Tính năng mới: Quản lý lịch học cá nhân
+
+1. Cho phép người dùng thêm, sửa, xóa các sự kiện học tập trong tuần.
+2. Hiển thị lịch học dưới dạng bảng hoặc lịch trực quan.
+3. Gửi thông báo nhắc nhở trước mỗi sự kiện quan trọng.
+4. Hỗ trợ đồng bộ hóa với các ứng dụng lịch khác như Google Calendar.
+5. Lưu trữ và bảo mật thông tin cá nhân của người dùng.
