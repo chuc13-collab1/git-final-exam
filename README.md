@@ -1,7 +1,7 @@
 # Git Final Exam
 
-**Họ tên:** [Điền họ tên của bạn]
-**MSSV:** [Điền MSSV của bạn]
+**Họ tên:** Nguyễn Tiến Chức  
+**MSSV:** 222560  
 **Ngày làm bài:** 08/10/2025
 
 ## Mục tiêu
