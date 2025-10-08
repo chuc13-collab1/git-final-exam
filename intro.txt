@@ -1,4 +1,11 @@
 Hello, this is Nguyễn Tiến Chức
+Xin chào, tôi là Nguyễn Tiến Chức
+Tôi tên là Nguyễn Tiến Chức, hiện đang là sinh viên đại học.
+Tôi yêu thích công nghệ và luôn muốn học hỏi những điều mới.
+Tôi có tinh thần làm việc nhóm và trách nhiệm trong công việc.
+Tôi mong muốn phát triển bản thân trong lĩnh vực lập trình và công nghệ thông tin.
+Tôi luôn cố gắng hoàn thành tốt mọi nhiệm vụ được giao.
+Conflict resolved on 08/10/2025
 Tôi tên là Nguyễn Tiến Chức, hiện đang là sinh viên đại học.
 Tôi yêu thích công nghệ và luôn muốn học hỏi những điều mới.
 Tôi có tinh thần làm việc nhóm và trách nhiệm trong công việc.
