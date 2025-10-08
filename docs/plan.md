@@ -13,8 +13,9 @@ Ngày kết thúc: 15/10/2025
 8. Thực hành lập trình hoặc làm bài tập thực tế.
 9. Đánh giá lại tiến độ học tập vào cuối tuần.
 10. Điều chỉnh kế hoạch nếu cần để đạt hiệu quả cao nhất.
-
 11. Tham khảo ý kiến thầy cô khi gặp khó khăn.
 12. Tham gia các buổi hội thảo, workshop về kỹ năng mềm.
 13. Đặt thời gian nghỉ ngơi hợp lý để tránh căng thẳng.
 14. Tổng kết lại những gì đã học được vào cuối tuần.
+15. Đăng ký tham gia các câu lạc bộ học thuật.
+16. Tự đánh giá bản thân sau mỗi buổi học.
