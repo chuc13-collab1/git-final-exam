@@ -1,3 +1,5 @@
 Hôm nay trời đẹp.
 Tôi đang học Git.
 Chúc bạn một ngày vui vẻ!
+Git rất hữu ích cho lập trình viên.
+Làm chủ Git giúp quản lý dự án tốt hơn.
