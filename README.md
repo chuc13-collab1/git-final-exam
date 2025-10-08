@@ -1,0 +1,8 @@
+# Git Final Exam
+
+**Họ tên:** [Điền họ tên của bạn]
+**MSSV:** [Điền MSSV của bạn]
+**Ngày làm bài:** 08/10/2025
+
+## Mục tiêu
+Mục tiêu học Git là nắm vững các thao tác quản lý phiên bản mã nguồn, giúp làm việc nhóm hiệu quả và kiểm soát lịch sử thay đổi của dự án. Ngoài ra, sử dụng Git còn giúp phát hiện, khôi phục lỗi và phối hợp phát triển phần mềm một cách chuyên nghiệp.
